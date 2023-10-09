@@ -1,5 +1,5 @@
-Mathephysics is a loosely organized research group founded/led by Akshunna S. Dogra, to better organize the research and codebases he develops with students and peers/collaborators. 
+Mathephysics is a loosely organized research group led by Akshunna S. Dogra, to better organize the research and codebases he develops with students and collaborators. 
 
-We hail from diverse backgrounds (students have come from Albania, Australia, China, Germany, India, Pakistan, South Korea, United Kingdom, and the United States) and harbor equally diverse intellectual ambitions (the involved people pursue expertise in various nooks of mathematics, several corners of physics, and the many labyrinthine mazes of machine/deep learning). 
+We hail from diverse backgrounds (students have come from Albania, Australia, China, Germany, India, Pakistan, South Korea, United Kingdom, and the United States) and harbor equally diverse intellectual ambitions (the involved people pursue expertise in various nooks of mathematics, several corners of physics, and the many labyrinthine mazes of machine/deep learning). Supervised students have gone on to earn graduate positions at institutions such as Oxford University, University College London, University of Michigan, UT Austin amongst others, and have found employment in reputable financial institutions such as Squarepoint Capital and Funding Circle.
 
 Please email adogra@nyu.edu, if you would like to see what we are all getting up to and/or wish to be involved in some way.
