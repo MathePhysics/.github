@@ -1,4 +1,4 @@
-Mathephysics is a loosely organized research group led by Akshunna S. Dogra, to better organize the research and codebases he develops with students and collaborators. 
+Mathephysics is a loosely organized research group led by Akshunna S. Dogra, with a focus on constructing rigorous theories for Machine Learning/Artificial Intelligence, and its applications in mathematical and computational physics. 
 
 We hail from diverse backgrounds (students have come from Albania, Australia, China, Germany, India, Pakistan, South Korea, United Kingdom, and the United States) and harbor equally diverse intellectual ambitions (the involved people pursue expertise in various nooks of mathematics, several corners of physics, and the many labyrinthine mazes of machine/deep learning). 
 
