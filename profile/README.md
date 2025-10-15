@@ -1,6 +1,6 @@
-Mathephysics is an inter-disciplinary research group led by Akshunna S. Dogra, focusing on the construction of rigorous theories for Machine Learning/Artificial Intelligence, and development of principled AI/ML models for mathematical and computational physics settings. 
+Mathephysics is an inter-disciplinary research group led by Akshunna S. Dogra, focusing on the construction of rigorous theories for “Learning'' (Machine and Biological) and the development of principled computational and mathematical models in scientific domains.
 
-Our students hail from diverse backgrounds (students have come from Albania, Australia, China, Germany, Grenada, India, Pakistan, South Korea, United Kingdom, and the United States) and harbor equally diverse intellectual ambitions (the involved people pursue expertise in various nooks of mathematics, several corners of physics, and the many labyrinthine mazes of machine/deep learning). 
+Our students have hailed from a rich diversity of backgrounds (Albania, Australia, China, Croatia, Germany, Grenada, India, Pakistan, South Korea, United Kingdom, and the United States to date). Better still, they harbor equally diverse intellectual ambitions, pursuing expertise in various nooks of mathematics, several corners of physics, and the many labyrinthine mazes of machine/deep learning. 
 
 Formally supervised students have gone on to earn postgraduate positions at institutions such as Oxford University, University College London, University of Michigan, and UT Austin amongst others, and have found employment at reputable financial institutions such as Squarepoint Capital and Funding Circle.
 
