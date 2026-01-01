@@ -4,4 +4,12 @@ Our students, contributors, and mentors hail from a rich diversity of background
 
 Formally supervised students have gone on to earn postgraduate positions at institutions such as Oxford University, University College London, University of Michigan, and UT Austin amongst others, and have found employment at reputable financial institutions such as Squarepoint Capital and Funding Circle.
 
-Please email adogra@nyu.edu if you would like to see what we are all getting up to and/or wish to be involved in some way.
+Please email adogra@nyu.edu if you would like to see what we are all getting up to and/or find the following maxims compelling:
+
+<br>
+
+<p align="center"><strong>धैर्यवतः सर्वं प्रवर्तते।</strong></p>
+
+<p align="center"><em>For the steadfast one, all things are set in motion.</em></p>
+
+<p align="center">Everything is a dynamical system if you are brave enough.</p>
